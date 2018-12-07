@@ -95,7 +95,7 @@ Pradėsime nuo puslapio aprašymo
 </html>
 ```
 
-<span style="background-color: #FFFF00">Marked text</span>
+<span style="background-color: red">Marked text</span>
 <mark>Marked text</mark>
 
 <code> _Hello_ **world** </code>
