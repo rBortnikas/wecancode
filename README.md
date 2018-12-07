@@ -90,6 +90,7 @@ Programavimo aplinka https://codesandbox.io/s/oqnz8n1pqz
 ```
 ##### 2.3. Pastarųjų žingsnių darbo rezultatą “prijungiame” prie index.html dokumento:
 ```html
+...
 	<meta charset="utf-8" />
 	<title>We can code beginner challenge</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -103,9 +104,6 @@ Programavimo aplinka https://codesandbox.io/s/oqnz8n1pqz
 	<script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap"></script>
 </body>
 </html>
+...
 ```
 
-<span style="background-color: #FFFF00">Marked text</span>
-<mark>Marked text</mark>
-
-<code> _Hello_ **world** </code>
