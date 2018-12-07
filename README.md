@@ -23,7 +23,7 @@ Programavimo aplinka https://codesandbox.io/s/oqnz8n1pqz
 * styles.css
 
 
-####  1.&nbsp;&nbsp;&nbsp;index.html faile keisime mūsų puslapio išvaizdą
+###  1.&nbsp;&nbsp;&nbsp;index.html faile keisime mūsų puslapio išvaizdą
 Pradėsime nuo puslapio aprašymo
 
 ```HTML
@@ -41,8 +41,8 @@ Pradėsime nuo puslapio aprašymo
 </html>
 ```
 ***
-#### 2.&nbsp;&nbsp;&nbsp;Kuriame žemėlapį ir dedame jį į mūsų puslapį
-###### 2.1. Pildome styles.css failą
+### 2.&nbsp;&nbsp;&nbsp;Kuriame žemėlapį ir dedame jį į mūsų puslapį
+##### 2.1. Pildome styles.css failą
 
 ```css
 #map {
@@ -50,7 +50,7 @@ Pradėsime nuo puslapio aprašymo
 	height: 300px;
 }
 ```
-###### 2.2. Kuriame pirmąją map.js funkciją. Ji užkraus žemėlapį į mūsų app’są
+##### 2.2. Kuriame pirmąją map.js funkciją. Ji užkraus žemėlapį į mūsų app’są
 ```javascript
 (function(root) {
  	///
@@ -78,7 +78,7 @@ Pradėsime nuo puslapio aprašymo
 	root.initMap = initMap;
 })(typeof self !== "undefined" ? self : window);
 ```
-###### 2.3. Pastarųjų žingsnių darbo rezultatą “prijungiame” prie index.html dokumento
+##### 2.3. Pastarųjų žingsnių darbo rezultatą “prijungiame” prie index.html dokumento
 ```html
 	<meta charset="utf-8" />
 	<title>We can code beginner challenge</title>
@@ -95,7 +95,7 @@ Pradėsime nuo puslapio aprašymo
 </html>
 ```
 
-<span style="background-color: red">Marked text</span>
+<span style="background-color: #FFFF00">Marked text</span>
 <mark>Marked text</mark>
 
 <code> _Hello_ **world** </code>
