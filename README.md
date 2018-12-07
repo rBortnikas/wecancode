@@ -24,7 +24,7 @@ Programavimo aplinka https://codesandbox.io/s/oqnz8n1pqz
 
 
 ###  1.&nbsp;&nbsp;&nbsp;index.html faile keisime mūsų puslapio išvaizdą
-### Pradėsime nuo puslapio aprašymo:
+##### Pradėsime nuo puslapio aprašymo:
 
 ```HTML
 <!DOCTYPE html>
